@@ -1,0 +1,38 @@
+/* Write your CSS code here */
+.navBar {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.appLogo_container {
+  display: flex;
+  align-items: center;
+}
+
+.appLogo {
+  height: 40px;
+  width: 40px;
+  margin-right: 10px;
+}
+
+.appName_wave {
+  font-weight: 900;
+  font-size: 30px;
+}
+
+.options_container {
+  display: flex;
+  align-items: center;
+}
+
+.li_option {
+  margin-right: 10px;
+  border: none;
+  color: rgb(7, 7, 39);
+  font-weight: 500px;
+}
+li {
+  list-style: none;
+}
